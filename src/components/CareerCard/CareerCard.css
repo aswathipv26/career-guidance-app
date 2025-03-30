@@ -1,0 +1,30 @@
+ 
+ .career-card {
+    width: 150px;
+    height: 180px;
+    border: 2px solid #ddd;
+    background: #fff;
+    overflow: hidden;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+ }
+
+ .career-card h3 {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #333;
+ }
+
+ .career-card:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+    background: #4CAF50;
+ }
+
+ .career-image {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+ }

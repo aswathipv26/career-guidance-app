@@ -1,0 +1,54 @@
+
+
+.aptitude-container {
+    max-width: 90%;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+.aptitude-container h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 15px;
+ 
+}
+
+.submit-btn {
+   display: block;
+   width: 200px;
+   margin: 20px auto;
+   padding: 12px;
+   font-size: 18px;
+   border: none;
+   background: #28a745;
+   color: #fff;
+   border-radius: 5px;
+   cursor: pointer;
+   transition: all 0.3s ease;
+}
+
+.submit-btn:hover {
+    background: #218838;
+}
+
+.result-message {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+@media (max-width: 480px) {
+    .submit-btn {
+        width: 80%;
+        font-size: 14px;
+        padding: 10px;
+    }
+}
