@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/career-guidance-app/static/css/main.03514ee1.css",
+    "main.js": "/career-guidance-app/static/js/main.244462ab.js",
+    "static/media/college-image3.jpeg": "/career-guidance-app/static/media/college-image3.384dc2ab55d5353fddd8.jpeg",
+    "static/media/engineer-image.jpg": "/career-guidance-app/static/media/engineer-image.63bc447534cf966cb9a4.jpg",
+    "static/media/college-image1.jpeg": "/career-guidance-app/static/media/college-image1.3a6e8a67c02747a1177d.jpeg",
+    "static/media/science-image.jpg": "/career-guidance-app/static/media/science-image.3448b7700ea44e34649b.jpg",
+    "static/media/business-image.jpg": "/career-guidance-app/static/media/business-image.1c889b56b7ca27714fd7.jpg",
+    "static/media/college-image2.jpeg": "/career-guidance-app/static/media/college-image2.2e4d2ec9bee8c82759d3.jpeg",
+    "static/media/arts.jpg": "/career-guidance-app/static/media/arts.c4614aa44b3f2c058ef6.jpg",
+    "static/media/law-image.webp": "/career-guidance-app/static/media/law-image.861e353e509325e27730.webp",
+    "static/media/medicine-image.webp": "/career-guidance-app/static/media/medicine-image.f84fa26f937710196b7c.webp",
+    "index.html": "/career-guidance-app/index.html",
+    "main.03514ee1.css.map": "/career-guidance-app/static/css/main.03514ee1.css.map",
+    "main.244462ab.js.map": "/career-guidance-app/static/js/main.244462ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03514ee1.css",
+    "static/js/main.244462ab.js"
+  ]
+}
